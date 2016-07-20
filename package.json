@@ -1,5 +1,5 @@
 {
-  "name": "rojo2-password",
+  "name": "password",
   "version": "1.0.0",
   "description": "Library to do safe password hashing",
   "main": "password.js",
