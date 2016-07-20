@@ -1,6 +1,7 @@
 # Password
+![Travis CI](https://travis-ci.org/rojo2/password.svg?branch=master)
 
-This hashes a password using PBKDF2.
+Password hashing lib using PBKDF2.
 
 ```javascript
 const password = require("password");
