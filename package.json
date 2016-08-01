@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Library to do safe password hashing",
   "main": "password.js",
+  "engines": {
+    "node": ">=6.3.0"
+  },
   "directories": {
     "test": "test"
   },
