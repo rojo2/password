@@ -1,6 +1,6 @@
 {
-  "name": "password",
-  "version": "1.0.0",
+  "name": "@rojo2/password",
+  "version": "1.0.1",
   "description": "Library to do safe password hashing",
   "main": "password.js",
   "engines": {
@@ -28,5 +28,9 @@
   "bugs": {
     "url": "https://github.com/rojo2/password/issues"
   },
-  "homepage": "https://github.com/rojo2/password#readme"
+  "homepage": "https://github.com/rojo2/password#readme",
+  "keywords": [
+    "password",
+    "pbkdf2"
+  ]
 }

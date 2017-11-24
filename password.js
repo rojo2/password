@@ -10,21 +10,21 @@ const KEY_LENGTH = 512;
 const ITERATIONS = 100000;
 
 /** Digest used to generate the key (PBKDF2) */
-const DIGEST = 'sha512';
+const DIGEST = "sha512";
 
 /** Separator used to separate password parameters */
-const SEPARATOR = ':';
+const SEPARATOR = ":";
 
 /**
  * Returns a hashed password and all of the parameters used
  * to generate it.
- * 
- * @param {String} password
- * @param {String} salt
- * @param {Number} iterations
- * @param {Number} length
- * @param {String} digest
- * @return {String} The resulting string
+ *
+ * @param {string} password
+ * @param {string} salt
+ * @param {number} iterations
+ * @param {number} length
+ * @param {string} digest
+ * @return {string} The resulting string
  */
 function render(password, salt, iterations, length, digest) {
   return `${password}${SEPARATOR}${salt}${SEPARATOR}${iterations}${SEPARATOR}${length}${SEPARATOR}${digest}`;
@@ -33,8 +33,8 @@ function render(password, salt, iterations, length, digest) {
 /**
  * Returns a promise that when it is resolved it contains a random salt
  * generated using crypto.randomBytes.
- * 
- * @param {Number} length
+ *
+ * @param {number} length
  * @return {Promise}
  */
 function createSalt(length = SALT_LENGTH) {
@@ -52,11 +52,11 @@ function createSalt(length = SALT_LENGTH) {
  * Returns a promise that when it is resolved it contains a hashed password and
  * all of the parameters passed to this function.
  *
- * @param {String} password
- * @param {String} salt
- * @param {Number} iterations
- * @param {Number} length
- * @param {String} digest
+ * @param {string} password
+ * @param {string} salt
+ * @param {number} iterations
+ * @param {number} length
+ * @param {string} digest
  * @return {Promise}
  */
 function pbkdf2(password, salt, iterations, length, digest) {
@@ -71,14 +71,14 @@ function pbkdf2(password, salt, iterations, length, digest) {
 }
 
 /**
- * Returns a promise that when it is resolved it contains a hashed password 
+ * Returns a promise that when it is resolved it contains a hashed password
  * and all of the parameters used to generate that hash.
  *
- * @param {String} password
- * @param {String} salt
- * @param {Number} iterations
- * @param {Number} length
- * @param {String} digest
+ * @param {string} password
+ * @param {string} salt
+ * @param {number} iterations
+ * @param {number} length
+ * @param {string} digest
  * @return {Promise}
  */
 function hash(password, salt = null, iterations = ITERATIONS, length = KEY_LENGTH, digest = DIGEST) {
@@ -100,8 +100,8 @@ function hash(password, salt = null, iterations = ITERATIONS, length = KEY_LENGT
  * Returns a promise that when it is resolved it contains a boolean value that
  * indicates if the password is ok or not.
  *
- * @param {String} password
- * @param {String} hashedPassword
+ * @param {string} password
+ * @param {string} hashedPassword
  * @return {Promise}
  */
 function verify(password, hashedPassword) {
