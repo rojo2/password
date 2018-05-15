@@ -140,7 +140,7 @@ function hash(password, salt = null, iterations = ITERATIONS, length = KEY_LENGT
  * @return {Promise<boolean|Error>}
  */
 function verify(password, hashedPassword, sep = SEPARATOR) {
-  const [key, salt, iterations, length, digest] = hashedPassword.split(SEPARATOR);
+  const [key, salt, iterations, length, digest] = hashedPassword.split(sep);
   const parsedIterations = parseInt(iterations, 10);
   const parsedLength = parseInt(length, 10);
   if (!Number.isFinite(parsedIterations)) {
