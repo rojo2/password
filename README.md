@@ -1,10 +1,27 @@
 # Password
 ![Travis CI](https://travis-ci.org/rojo2/password.svg?branch=master)
 
-Password hashing lib using PBKDF2.
+Password hash library using PBKDF2.
 
 ```javascript
-const password = require("password");
+import password from "@rojo2/password";
+
+// Hash password
+const hashedPassword = await password.hash("plainPassword")
+
+// Verify password
+const result = await password.verify("plainPassword", "hashedPassword");
+if (result === true) {
+  // Password is ok.
+} else {
+  // Passwords doesn't match.
+}
+```
+
+Or if you prefer promises:
+
+```javascript
+import password from "@rojo2/password";
 
 // Hash password
 password.hash("plainPassword").then((hashedPassword) => {
@@ -21,7 +38,7 @@ password.verify("plainPassword", "hashedPassword").then((result) => {
 		// Passwords doesn't match.
 	}
 }).catch((error) => {
-
+  // ...
 });
 ```
 
