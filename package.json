@@ -1,22 +1,33 @@
 {
   "name": "@rojo2/password",
-  "version": "1.0.1",
-  "description": "Library to do safe password hashing",
-  "main": "password.js",
+  "version": "1.1.0",
+  "description": "Library to do safe password hashing using PBKDF2",
+  "main": "dist/password.cjs.js",
+  "module": "dist/password.esm.js",
   "engines": {
     "node": ">=6.3.0"
   },
+  "files": [
+    "dist"
+  ],
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "test": "mocha"
+    "build": "NODE_ENV=production rollup -c",
+    "test": "NODE_ENV=test mocha --require babel-core/register",
+    "test:watch": "NODE_ENV=test mocha --watch --require babel-core/register"
   },
   "author": "ROJO 2 <hola@rojo2.com> (http://rojo2.com)",
   "license": "MIT",
   "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-2": "^6.24.1",
     "chai": "^3.5.0",
-    "mocha": "^2.5.3"
+    "mocha": "^2.5.3",
+    "rollup": "^0.59.0",
+    "rollup-plugin-babel": "^3.0.4"
   },
   "dependencies": {
     "chai": "^3.5.0"

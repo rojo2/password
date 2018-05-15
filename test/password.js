@@ -1,17 +1,97 @@
-const {expect} = require("chai");
-const password = require("../password");
+import { expect } from "chai";
+import password from "../src/password";
 
 describe("Password", function() {
 
   this.timeout(5000);
+  
+  it("should fail if you don't specify a valid iterations ('10000')", (done) => {
+
+    password.hash("hola", "test", "10000", 32, "").then(() => {
+      return done(new Error("it should fail"));
+    }).catch((err) => {
+      return done();
+    });
+
+  });
+
+  it("should fail if you don't specify a valid iterations (Infinity)", (done) => {
+
+    password.hash("hola", "test", Infinity, 32, "").then(() => {
+      return done(new Error("it should fail"));
+    }).catch((err) => {
+      return done();
+    });
+
+  });
+  
+  it("should fail if you don't specify a valid iterations (NaN)", (done) => {
+
+    password.hash("hola", "test", NaN, 32, "").then(() => {
+      return done(new Error("it should fail"));
+    }).catch((err) => {
+      return done();
+    });
+
+  });
+
+  it("should fail if you don't specify a valid iterations (true)", (done) => {
+
+    password.hash("hola", "test", true, 32, "").then(() => {
+      return done(new Error("it should fail"));
+    }).catch((err) => {
+      return done();
+    });
+
+  });
+
+
+  it("should fail if you don't specify a valid key length ('32')", (done) => {
+
+    password.hash("hola", "test", 10000, "32", "").then(() => {
+      return done(new Error("it should fail"));
+    }).catch((err) => {
+      return done();
+    });
+
+  });
+
+  it("should fail if you don't specify a valid key length (Infinity)", (done) => {
+
+    password.hash("hola", "test", 10000, Infinity, "").then(() => {
+      return done(new Error("it should fail"));
+    }).catch((err) => {
+      return done();
+    });
+
+  });
+  
+  it("should fail if you don't specify a valid key length (NaN)", (done) => {
+
+    password.hash("hola", "test", 10000, Infinity, "").then(() => {
+      return done(new Error("it should fail"));
+    }).catch((err) => {
+      return done();
+    });
+
+  });
+
+  it("should fail if you don't specify a valid key length (true)", (done) => {
+
+    password.hash("hola", "test", 10000, true, "").then(() => {
+      return done(new Error("it should fail"));
+    }).catch((err) => {
+      return done();
+    });
+
+  });
 
   it("should fail if you don't specify a valid digest name", (done) => {
 
     password.hash("hola", "test", 10000, 32, "").then(() => {
-      done(new Error("it should fail"));
+      return done(new Error("it should fail"));
     }).catch((err) => {
-      expect(err.toString()).to.be.equal("TypeError: Bad digest name");
-      done();
+      return done();
     });
 
   });
@@ -19,10 +99,9 @@ describe("Password", function() {
   it("should fail if you don't specify a valid key length", (done) => {
 
     password.hash("hola", "test", 10000, 0, "sha1").then((result) => {
-      done(new Error("it should fail"));
+      return done(new Error("it should fail"));
     }).catch((err) => {
-      expect(err.toString()).to.be.equal("TypeError: Invalid key length");
-      done();
+      return done();
     });
 
   });
@@ -30,10 +109,9 @@ describe("Password", function() {
   it("should fail if you don't specify a valid number of iterations", (done) => {
 
     password.hash("hola", "test", "1000", 32, "sha1").then((result) => {
-      done(new Error("it should fail"));
+      return done(new Error("it should fail"));
     }).catch((err) => {
-      expect(err.toString()).to.be.equal("TypeError: Invalid number of iterations");
-      done();
+      return done();
     });
 
   });
@@ -42,9 +120,9 @@ describe("Password", function() {
     
     password.hash("hola", "test", 10000, 32, "sha1").then((hashedPassword) => {
       expect(hashedPassword).to.be.equal("3bc3ff808fecfa016e9b62580012ecb9137be9fd8c4cbdecb3cd454e741c6b80:test:10000:32:sha1");
-      done();
+      return done();
     }).catch((err) => {
-      done(err);
+      return ione(err);
     });
 
   });
@@ -53,9 +131,9 @@ describe("Password", function() {
 
     password.verify("hola", "3bc3ff808fecfa016e9b62580012ecb9137be9fd8c4cbdecb3cd454e741c6b80:test:10000:32:sha1").then((result) => {
       expect(result).to.be.equal(true);
-      done();
+      return done();
     }).catch((err) => {
-      done(err); 
+      return done(err); 
     });
 
   });
