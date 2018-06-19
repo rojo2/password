@@ -1,7 +1,7 @@
 # Password
 ![Travis CI](https://travis-ci.org/rojo2/password.svg?branch=master)
 
-Password hash library using PBKDF2.
+Library to hash passwords easily using PBKDF2. Well tested and good defaults chosen.
 
 ```javascript
 import password from "@rojo2/password";
@@ -42,5 +42,5 @@ password.verify("plainPassword", "hashedPassword").then((result) => {
 });
 ```
 
-Made with ❤ by ROJO 2 (http://rojo2.com)
+Made with :heart: by ROJO 2 (http://rojo2.com)
 
