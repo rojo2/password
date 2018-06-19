@@ -1,0 +1,1125 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/password.js",
+    "content": "import crypto from \"crypto\";\n\n/** \n * Length of the salt generated automatically \n * @type {number}\n */\nconst SALT_LENGTH = 512;\n\n/** \n * Length of the key \n * @type {number}\n */\nconst KEY_LENGTH = 4096;\n\n/**\n * Minimum key length.\n * @type {number}\n */\nconst MIN_KEY_LENGTH = 32;\n\n/** \n * Number of iterations (PBKDF2) \n * @type {number}\n */\nconst ITERATIONS = 100000;\n\n/**\n * Minimum number of iterations. \n * @type {number}\n */\nconst MIN_ITERATIONS = 10000;\n\n/** \n * Digest used to generate the key (PBKDF2). By default `sha512`.\n * @type {string}\n */\nconst DIGEST = \"sha512\";\n\n/** \n * Separator used to separate password parameters. By default \":\"\n * @type {string}\n */\nconst SEPARATOR = \":\";\n\n/**\n * Returns a hashed password and all of the parameters used\n * to generate it.\n *\n * @param {string} password - Password\n * @param {string} salt - Salt\n * @param {number} iterations - Iterations\n * @param {number} length - Key length\n * @param {string} digest - Digest used\n * @param {string} [sep=SEPARATOR] - Separator\n * @return {string} - The resulting string\n */\nfunction render(password, salt, iterations, length, digest, sep = SEPARATOR) {\n  return [\n    password,\n    salt,\n    iterations,\n    length,\n    digest\n  ].join(sep);\n}\n\n/**\n * Returns a promise that when it is resolved it contains a random salt\n * generated using crypto.randomBytes.\n *\n * @param {number} [length=SALT_LENGTH] - Salt length (by default 512)\n * @return {Promise}\n */\nfunction createSalt(length = SALT_LENGTH) {\n  return new Promise((resolve, reject) => {\n    crypto.randomBytes(length, (err, salt) => {\n      if (err) {\n        return reject(err);\n      }\n      return resolve(salt.toString(\"hex\"));\n    });\n  });\n}\n\n/**\n * Returns a promise that when it is resolved it contains a hashed password and\n * all of the parameters passed to this function.\n *\n * @param {string} password - Password\n * @param {string} salt - Salt (if you don't pass this parameter, then a salt will be generated automatically)\n * @param {number} iterations - Iterations\n * @param {number} length - Key length\n * @param {string} digest - Digest\n * @param {string} [sep=SEPARATOR] - Separator (by default \":\")\n * @return {Promise}\n */\nfunction pbkdf2(password, salt, iterations, length, digest, sep = SEPARATOR) {\n  return new Promise((resolve, reject) => {\n    crypto.pbkdf2(password, salt, iterations, length, digest, (err, key) => {\n      if (err) {\n        return reject(err);\n      }\n      return resolve(render(key.toString(\"hex\"), salt, iterations, length, digest, sep));\n    });\n  });\n}\n\n/**\n * Returns a promise that when it is resolved it contains a hashed password\n * and all of the parameters used to generate that hash.\n *\n * @param {string} password - Password (in plain text)\n * @param {string} [salt] - Salt (if not specified, then a random salt is calculated)\n * @param {number} [iterations=ITERATIONS] - Iterations (by default 100000)\n * @param {number} [length=KEY_LENGTH] - Key length (by default 512)\n * @param {string} [digest=DIGEST] - Digest (by default \"sha512\")\n * @param {string} [sep=SEPARATOR] - Separator\n * @return {Promise<string|Error>} \n */\nfunction hash(password, salt = null, iterations = ITERATIONS, length = KEY_LENGTH, digest = DIGEST, sep = SEPARATOR) {\n  if (!Number.isFinite(length) || length < MIN_KEY_LENGTH) {\n    return Promise.reject(new TypeError(\"Invalid key length\"));\n  }\n  if (!Number.isFinite(iterations) || iterations < MIN_ITERATIONS) {\n    return Promise.reject(new TypeError(\"Invalid number of iterations\"));\n  }\n  if (!salt) {\n    return createSalt().then((salt) => pbkdf2(password, salt, iterations, length, digest));\n  }\n  return pbkdf2(password, salt, iterations, length, digest);\n}\n\n/**\n * Returns a promise that when it is resolved it contains a boolean value that\n * indicates if the password is ok or not.\n *\n * @param {string} password - Password (plain text)\n * @param {string} hashedPassword - Hashed Password\n * @param {string} [sep=SEPARATOR] - Separator (by default \":\")\n * @return {Promise<boolean|Error>}\n */\nfunction verify(password, hashedPassword, sep = SEPARATOR) {\n  const [key, salt, iterations, length, digest] = hashedPassword.split(sep);\n  const parsedIterations = parseInt(iterations, 10);\n  const parsedLength = parseInt(length, 10);\n  if (!Number.isFinite(parsedIterations)) {\n    return Promise.reject(new Error(\"Invalid iterations\"));\n  }\n  if (!Number.isFinite(parsedLength)) {\n    return Promise.reject(new Error(\"Invalid length\"));\n  }\n  if (parsedIterations !== parseFloat(iterations)) {\n    return Promise.reject(new Error(\"Invalid iterations, must be an integer\"));\n  }\n  if (parsedLength !== parseFloat(length)) {\n    return Promise.reject(new Error(\"Invalid key length, must be an integer\"));\n  }\n  return hash(password, salt, parsedIterations, parsedLength, digest)\n    .then((verifiedPassword) => verifiedPassword === hashedPassword);\n}\n\nexport default {\n  hash,\n  verify\n}\n",
+    "static": true,
+    "longname": "/home/aitor/Projects/rojo2/password/src/password.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "variable",
+    "name": "SALT_LENGTH",
+    "memberof": "src/password.js",
+    "static": true,
+    "longname": "src/password.js~SALT_LENGTH",
+    "access": "public",
+    "export": false,
+    "importPath": "@rojo2/password/src/password.js",
+    "importStyle": null,
+    "description": "Length of the salt generated automatically ",
+    "lineNumber": 7,
+    "type": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 50,
+    "kind": "variable",
+    "name": "KEY_LENGTH",
+    "memberof": "src/password.js",
+    "static": true,
+    "longname": "src/password.js~KEY_LENGTH",
+    "access": "public",
+    "export": false,
+    "importPath": "@rojo2/password/src/password.js",
+    "importStyle": null,
+    "description": "Length of the key ",
+    "lineNumber": 13,
+    "type": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 51,
+    "kind": "variable",
+    "name": "MIN_KEY_LENGTH",
+    "memberof": "src/password.js",
+    "static": true,
+    "longname": "src/password.js~MIN_KEY_LENGTH",
+    "access": "public",
+    "export": false,
+    "importPath": "@rojo2/password/src/password.js",
+    "importStyle": null,
+    "description": "Minimum key length.",
+    "lineNumber": 19,
+    "type": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 52,
+    "kind": "variable",
+    "name": "ITERATIONS",
+    "memberof": "src/password.js",
+    "static": true,
+    "longname": "src/password.js~ITERATIONS",
+    "access": "public",
+    "export": false,
+    "importPath": "@rojo2/password/src/password.js",
+    "importStyle": null,
+    "description": "Number of iterations (PBKDF2) ",
+    "lineNumber": 25,
+    "type": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 53,
+    "kind": "variable",
+    "name": "MIN_ITERATIONS",
+    "memberof": "src/password.js",
+    "static": true,
+    "longname": "src/password.js~MIN_ITERATIONS",
+    "access": "public",
+    "export": false,
+    "importPath": "@rojo2/password/src/password.js",
+    "importStyle": null,
+    "description": "Minimum number of iterations. ",
+    "lineNumber": 31,
+    "type": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 54,
+    "kind": "variable",
+    "name": "DIGEST",
+    "memberof": "src/password.js",
+    "static": true,
+    "longname": "src/password.js~DIGEST",
+    "access": "public",
+    "export": false,
+    "importPath": "@rojo2/password/src/password.js",
+    "importStyle": null,
+    "description": "Digest used to generate the key (PBKDF2). By default `sha512`.",
+    "lineNumber": 37,
+    "type": {
+      "nullable": null,
+      "types": [
+        "string"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 55,
+    "kind": "variable",
+    "name": "SEPARATOR",
+    "memberof": "src/password.js",
+    "static": true,
+    "longname": "src/password.js~SEPARATOR",
+    "access": "public",
+    "export": false,
+    "importPath": "@rojo2/password/src/password.js",
+    "importStyle": null,
+    "description": "Separator used to separate password parameters. By default \":\"",
+    "lineNumber": 43,
+    "type": {
+      "nullable": null,
+      "types": [
+        "string"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 56,
+    "kind": "function",
+    "name": "render",
+    "memberof": "src/password.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/password.js~render",
+    "access": "public",
+    "export": false,
+    "importPath": "@rojo2/password/src/password.js",
+    "importStyle": null,
+    "description": "Returns a hashed password and all of the parameters used\nto generate it.",
+    "lineNumber": 57,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "password",
+        "description": "Password"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "salt",
+        "description": "Salt"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "iterations",
+        "description": "Iterations"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "length",
+        "description": "Key length"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "digest",
+        "description": "Digest used"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "SEPARATOR",
+        "defaultRaw": "SEPARATOR",
+        "name": "sep",
+        "description": "Separator"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string"
+      ],
+      "spread": false,
+      "description": "The resulting string"
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 57,
+    "kind": "function",
+    "name": "createSalt",
+    "memberof": "src/password.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/password.js~createSalt",
+    "access": "public",
+    "export": false,
+    "importPath": "@rojo2/password/src/password.js",
+    "importStyle": null,
+    "description": "Returns a promise that when it is resolved it contains a random salt\ngenerated using crypto.randomBytes.",
+    "lineNumber": 74,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "SALT_LENGTH",
+        "defaultRaw": "SALT_LENGTH",
+        "name": "length",
+        "description": "Salt length (by default 512)"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Promise"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 58,
+    "kind": "function",
+    "name": "pbkdf2",
+    "memberof": "src/password.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/password.js~pbkdf2",
+    "access": "public",
+    "export": false,
+    "importPath": "@rojo2/password/src/password.js",
+    "importStyle": null,
+    "description": "Returns a promise that when it is resolved it contains a hashed password and\nall of the parameters passed to this function.",
+    "lineNumber": 97,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "password",
+        "description": "Password"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "salt",
+        "description": "Salt (if you don't pass this parameter, then a salt will be generated automatically)"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "iterations",
+        "description": "Iterations"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "length",
+        "description": "Key length"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "digest",
+        "description": "Digest"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "SEPARATOR",
+        "defaultRaw": "SEPARATOR",
+        "name": "sep",
+        "description": "Separator (by default \":\")"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Promise"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 59,
+    "kind": "function",
+    "name": "hash",
+    "memberof": "src/password.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/password.js~hash",
+    "access": "public",
+    "export": false,
+    "importPath": "@rojo2/password/src/password.js",
+    "importStyle": null,
+    "description": "Returns a promise that when it is resolved it contains a hashed password\nand all of the parameters used to generate that hash.",
+    "lineNumber": 120,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "password",
+        "description": "Password (in plain text)"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "salt",
+        "description": "Salt (if not specified, then a random salt is calculated)"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "ITERATIONS",
+        "defaultRaw": "ITERATIONS",
+        "name": "iterations",
+        "description": "Iterations (by default 100000)"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "KEY_LENGTH",
+        "defaultRaw": "KEY_LENGTH",
+        "name": "length",
+        "description": "Key length (by default 512)"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "DIGEST",
+        "defaultRaw": "DIGEST",
+        "name": "digest",
+        "description": "Digest (by default \"sha512\")"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "SEPARATOR",
+        "defaultRaw": "SEPARATOR",
+        "name": "sep",
+        "description": "Separator"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Promise<string|Error>"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 60,
+    "kind": "function",
+    "name": "verify",
+    "memberof": "src/password.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/password.js~verify",
+    "access": "public",
+    "export": false,
+    "importPath": "@rojo2/password/src/password.js",
+    "importStyle": null,
+    "description": "Returns a promise that when it is resolved it contains a boolean value that\nindicates if the password is ok or not.",
+    "lineNumber": 142,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "password",
+        "description": "Password (plain text)"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "hashedPassword",
+        "description": "Hashed Password"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "SEPARATOR",
+        "defaultRaw": "SEPARATOR",
+        "name": "sep",
+        "description": "Separator (by default \":\")"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Promise<boolean|Error>"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "ignore": true
+  },
+  {
+    "kind": "index",
+    "content": "# Password\n![Travis CI](https://travis-ci.org/rojo2/password.svg?branch=master)\n\nLibrary to hash passwords easily using PBKDF2. Well tested and good defaults chosen.\n\n```javascript\nimport password from \"@rojo2/password\";\n\n// Hash password\nconst hashedPassword = await password.hash(\"plainPassword\")\n\n// Verify password\nconst result = await password.verify(\"plainPassword\", \"hashedPassword\");\nif (result === true) {\n  // Password is ok.\n} else {\n  // Passwords doesn't match.\n}\n```\n\nOr if you prefer promises:\n\n```javascript\nimport password from \"@rojo2/password\";\n\n// Hash password\npassword.hash(\"plainPassword\").then((hashedPassword) => {\n  // ... do something with the hashed password (like saving it in a mongodb object) ...\n}).catch((error) => {\n  // ...\n});\n\n// Verify password\npassword.verify(\"plainPassword\", \"hashedPassword\").then((result) => {\n\tif (result === true) {\n\t\t// Password is ok.\n\t} else {\n\t\t// Passwords doesn't match.\n\t}\n}).catch((error) => {\n  // ...\n});\n```\n\nMade with :heart: by ROJO 2 (http://rojo2.com)\n\n",
+    "longname": "/home/aitor/Projects/rojo2/password/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"@rojo2/password\",\n  \"version\": \"1.1.1\",\n  \"description\": \"Library to do safe password hashing using PBKDF2\",\n  \"main\": \"dist/password.cjs.js\",\n  \"module\": \"dist/password.esm.js\",\n  \"engines\": {\n    \"node\": \">=6.3.0\"\n  },\n  \"files\": [\n    \"dist\"\n  ],\n  \"directories\": {\n    \"test\": \"test\"\n  },\n  \"scripts\": {\n    \"build\": \"NODE_ENV=production rollup -c\",\n    \"docs\": \"NODE_ENV=docs esdoc\",\n    \"test\": \"NODE_ENV=test mocha --require babel-core/register\",\n    \"test:watch\": \"NODE_ENV=test mocha --watch --require babel-core/register\"\n  },\n  \"author\": \"ROJO 2 <hola@rojo2.com> (http://rojo2.com)\",\n  \"license\": \"MIT\",\n  \"devDependencies\": {\n    \"babel-core\": \"^6.26.3\",\n    \"babel-preset-env\": \"^1.7.0\",\n    \"babel-preset-stage-2\": \"^6.24.1\",\n    \"chai\": \"^3.5.0\",\n    \"esdoc\": \"^1.1.0\",\n    \"esdoc-ecmascript-proposal-plugin\": \"^1.0.0\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"jsdoc\": \"^3.5.5\",\n    \"minami\": \"^1.2.3\",\n    \"mocha\": \"^5.2.0\",\n    \"rollup\": \"^0.59.0\",\n    \"rollup-plugin-babel\": \"^3.0.4\"\n  },\n  \"dependencies\": {\n    \"chai\": \"^3.5.0\"\n  },\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"git+https://github.com/rojo2/password.git\"\n  },\n  \"bugs\": {\n    \"url\": \"https://github.com/rojo2/password/issues\"\n  },\n  \"homepage\": \"https://github.com/rojo2/password#readme\",\n  \"keywords\": [\n    \"password\",\n    \"pbkdf2\"\n  ]\n}\n",
+    "longname": "/home/aitor/Projects/rojo2/password/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]

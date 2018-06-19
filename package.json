@@ -15,6 +15,7 @@
   },
   "scripts": {
     "build": "NODE_ENV=production rollup -c",
+    "docs": "NODE_ENV=docs jsdoc -c .jsdoc.json",
     "test": "NODE_ENV=test mocha --require babel-core/register",
     "test:watch": "NODE_ENV=test mocha --watch --require babel-core/register"
   },
@@ -25,7 +26,9 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-stage-2": "^6.24.1",
     "chai": "^3.5.0",
-    "mocha": "^2.5.3",
+    "jsdoc": "^3.5.5",
+    "minami": "^1.2.3",
+    "mocha": "^5.2.0",
     "rollup": "^0.59.0",
     "rollup-plugin-babel": "^3.0.4"
   },
